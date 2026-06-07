@@ -3,11 +3,10 @@
 *.gdoc
 *.gsheet
 *.gslides
-drive/
 
 # Ignore environment files
 .env
-virtual_env/
+venv/
 
 # Ignore Python artifacts
 __pycache__/
