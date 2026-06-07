@@ -3,11 +3,18 @@
 *.gdoc
 *.gsheet
 *.gslides
+<<<<<<< HEAD
 drive/
 
 # Ignore environment files
 .env
 virtual_env/
+=======
+
+# Ignore environment files
+.env
+venv/
+>>>>>>> b3d73688d05446f9bb7b5d7b7732a64570c66c15
 
 # Ignore Python artifacts
 __pycache__/
