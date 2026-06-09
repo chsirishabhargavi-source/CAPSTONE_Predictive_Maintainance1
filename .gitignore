@@ -1,0 +1,28 @@
+# Ignore Google Colab and Drive specific files
+.ipynb_checkpoints/
+*.gdoc
+*.gsheet
+*.gslides
+<<<<<<< HEAD
+drive/
+
+# Ignore environment files
+.env
+virtual_env/
+=======
+
+# Ignore environment files
+.env
+venv/
+>>>>>>> 86dd641270817c249c81af54e708d036604ed0c0
+
+# Ignore Python artifacts
+__pycache__/
+*.pyc
+*.log
+
+# Ignore local Hugging Face cache
+.cache/
+
+# Ignore model files (if you only want to push them via specific scripts)
+*.joblib
