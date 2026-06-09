@@ -1,6 +1,8 @@
 import joblib
 import pandas as pd
 from flask import Flask, request, jsonify
+from model import load_model
+from plots import plot_sensors
 
 app = Flask(__name__)
 
