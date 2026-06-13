@@ -2,5 +2,9 @@ pandas
 numpy
 scikit-learn
 joblib
-flask # Or fastapi
-huggingface_hub # If loading model directly from HF Hub
+flask
+huggingface_hub
+streamlit
+imbalanced-learn
+matplotlib
+seaborn
