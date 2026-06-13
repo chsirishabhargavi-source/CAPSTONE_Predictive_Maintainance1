@@ -3,11 +3,36 @@
 *.gdoc
 *.gsheet
 *.gslides
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 0645ddf9dee4ba7264922589bb2948d491304a0d
+>>>>>>> 90139199f6c5dc6f5d325146efbb05ab1aff7c99
+>>>>>>> ef264d5d16e926db17ddd4b6b2537e43ca2214d3
 drive/
 
 # Ignore environment files
 .env
 virtual_env/
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+
+# Ignore environment files
+.env
+venv/
+>>>>>>> 86dd641270817c249c81af54e708d036604ed0c0
+>>>>>>> 0645ddf9dee4ba7264922589bb2948d491304a0d
+>>>>>>> 90139199f6c5dc6f5d325146efbb05ab1aff7c99
+>>>>>>> ef264d5d16e926db17ddd4b6b2537e43ca2214d3
 
 # Ignore Python artifacts
 __pycache__/
